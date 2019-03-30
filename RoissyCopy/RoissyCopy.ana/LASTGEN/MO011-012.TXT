@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+DossierDetail		TAR	382	nouvelle taille enregistrement : 382
+DossierDetail	INTAutre	RUB+		INTAutre est une nouvelle clé
+DossierDetail	INTOeillet	RUB+		INTOeillet est une nouvelle clé

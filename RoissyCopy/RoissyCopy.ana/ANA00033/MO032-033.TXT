@@ -1,0 +1,7 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+DossierDetail		TAR	694	nouvelle taille enregistrement : 694
+DossierDetail	NomSousTraitant	RUB+		NomSousTraitant est une nouvelle clé
+DossierDetail	NumDevisSousTraitant	RUB+		NumDevisSousTraitant est une nouvelle clé
+DossierDetail	MontantSousTraitant	RUB+		MontantSousTraitant est une nouvelle clé
+DossierDetail	DescriptionSousTraitant	RUB+		DescriptionSousTraitant est une nouvelle clé
+DossierDetail		FIC-	SousTraitance	Fichier supprimé SousTraitance

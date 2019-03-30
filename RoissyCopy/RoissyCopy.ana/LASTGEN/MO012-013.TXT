@@ -1,0 +1,5 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+dossier		TAR	579	nouvelle taille enregistrement : 579
+dossier	Emballages	RUB-		la clé Emballages est supprimée
+DossierDetail		TAR	434	nouvelle taille enregistrement : 434
+DossierDetail	Emballages	RUB+		Emballages est une nouvelle clé

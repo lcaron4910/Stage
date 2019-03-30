@@ -1,0 +1,3 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+DossierDetail		TAR	485	nouvelle taille enregistrement : 485
+DossierDetail	AutreSaisie	RUB+		AutreSaisie est une nouvelle clé

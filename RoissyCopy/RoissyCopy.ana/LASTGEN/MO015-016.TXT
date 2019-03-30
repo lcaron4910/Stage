@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+DossierDetail		TAR	435	nouvelle taille enregistrement : 435
+DossierDetail	AutreSaisie	CNW	Booléen$Chaîne	la rubrique AutreSaisie a pour nouveau type Booléen

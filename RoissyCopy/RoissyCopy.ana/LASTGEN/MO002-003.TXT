@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+dossier		TAR	86	nouvelle taille enregistrement : 86
+dossier	DateCreation	RUB+		DateCreation est une nouvelle rubrique
+dossier	DateFin	RUB+		DateFin est une nouvelle rubrique

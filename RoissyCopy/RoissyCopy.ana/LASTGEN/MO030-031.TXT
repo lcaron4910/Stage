@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+SousTraitance		TAR	231	nouvelle taille enregistrement : 231
+SousTraitance	NomDossier	RUB+		NomDossier est une nouvelle clé

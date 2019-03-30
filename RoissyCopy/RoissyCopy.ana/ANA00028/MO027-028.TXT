@@ -1,0 +1,3 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+dossier		TAR	682	nouvelle taille enregistrement : 682
+dossier	Finition	RUB+		Finition est une nouvelle clé

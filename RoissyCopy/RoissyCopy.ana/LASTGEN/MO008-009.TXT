@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Client		TAR	385	nouvelle taille enregistrement : 385
+Client	telephone	CNW	Chaîne$Entier sur 4 octets	la rubrique telephone a pour nouveau type Chaîne
+Client	codePostal	CNW	Chaîne$Entier sur 4 octets	la rubrique codePostal a pour nouveau type Chaîne

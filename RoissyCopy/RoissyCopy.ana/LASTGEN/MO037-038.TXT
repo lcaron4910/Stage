@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+dossier		TAR	690	nouvelle taille enregistrement : 690
+dossier	DescriptionBonLivraison	CNW	Mémo texte$Chaîne	la rubrique DescriptionBonLivraison a pour nouveau type Mémo texte

@@ -1,0 +1,29 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+dossier		TAR	626	nouvelle taille enregistrement : 626
+dossier	DateCreation	CLEN*		la rubrique DateCreation est maintenant une clé
+dossier	DateFin	CLEN*		la rubrique DateFin est maintenant une clé
+dossier	Observations	RUB+		Observations est une nouvelle clé
+dossier	Total	RUB+		Total est une nouvelle clé
+dossier	NumDevis	RUB+		NumDevis est une nouvelle clé
+dossier	livraison	RUB+		livraison est une nouvelle clé
+dossier	etape	RUB+		etape est une nouvelle clé
+dossier	supp	RUB+		supp est une nouvelle clé
+dossier	dateSupp	RUB+		dateSupp est une nouvelle clé
+dossier	Coupe	RUB+		Coupe est une nouvelle clé
+dossier	FeuillesSepration	RUB+		FeuillesSepration est une nouvelle clé
+dossier	Classeurs	RUB+		Classeurs est une nouvelle clé
+dossier	Intercallaires	RUB+		Intercallaires est une nouvelle clé
+dossier	Assemblages	RUB+		Assemblages est une nouvelle clé
+dossier	Emballages	RUB+		Emballages est une nouvelle clé
+dossier	Maquette	RUB+		Maquette est une nouvelle clé
+Client		TAR	291	nouvelle taille enregistrement : 291
+Client	Nom	RUB+		Nom est une nouvelle clé
+Client	Designation	CLEN*		la rubrique Designation est maintenant une clé
+Client	email	CLEN*		la rubrique email est maintenant une clé
+Client	telephone	CLEN*		la rubrique telephone est maintenant une clé
+Client	codePostal	CLEN*		la rubrique codePostal est maintenant une clé
+Client	dateSupp	RUB+		dateSupp est une nouvelle clé
+Client	supp	RUB+		supp est une nouvelle clé
+Client	ville	RUB+		ville est une nouvelle clé
+Client	adresse	RUB+		adresse est une nouvelle clé
+DossierDetail		NFI		nouveau fichier

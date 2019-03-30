@@ -1,0 +1,2 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Client	contact	NNR	Designation	ATTENTION : la clé Designation a pour nouveau nom contact

@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+dossier	NumDossier	NNR	NomDossier	ATTENTION : la clé NomDossier a pour nouveau nom NumDossier
+DossierDetail	NumDossier	NNR	NomDossier	ATTENTION : la clé NomDossier a pour nouveau nom NumDossier

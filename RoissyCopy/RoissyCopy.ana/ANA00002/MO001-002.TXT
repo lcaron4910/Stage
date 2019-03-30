@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+dossier		TAR	68	nouvelle taille enregistrement : 68
+dossier	NomDossier	NNR	IDdossier	ATTENTION : la clé IDdossier a pour nouveau nom NomDossier
+dossier	Client	RUB+		Client est une nouvelle rubrique
+Client		NFI		nouveau fichier

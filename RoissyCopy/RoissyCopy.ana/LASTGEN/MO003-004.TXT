@@ -1,0 +1,6 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+dossier		IDE-*		fichier sans identifiant
+dossier	NomDossier	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique NomDossier a pour nouveau type Chaîne
+dossier	IDClient	NNR	Client	ATTENTION : la clé Client a pour nouveau nom IDClient
+dossier	IDClient	CLEN*		la rubrique IDClient est maintenant une clé
+dossier	IDClient	CNW	Entier sur 8 octets$Chaîne	la rubrique IDClient a pour nouveau type Entier sur 8 octets

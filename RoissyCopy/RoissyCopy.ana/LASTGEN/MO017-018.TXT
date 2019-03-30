@@ -1,0 +1,9 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+DossierDetail		TAR	530	nouvelle taille enregistrement : 530
+DossierDetail	typeSupportRigide	RUB+		typeSupportRigide est une nouvelle clé
+DossierDetail	Diabond	RUB-		la clé Diabond est supprimée
+DossierDetail	PVC	RUB-		la clé PVC est supprimée
+DossierDetail	Forex	RUB-		la clé Forex est supprimée
+DossierDetail	PVCSouple	RUB-		la clé PVCSouple est supprimée
+DossierDetail	Akylux	RUB-		la clé Akylux est supprimée
+DossierDetail	AutreSaisie	RUB-		la clé AutreSaisie est supprimée

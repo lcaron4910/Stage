@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+DossierDetail		TAR	486	nouvelle taille enregistrement : 486
+DossierDetail	Dim	RUB+		Dim est une nouvelle clé

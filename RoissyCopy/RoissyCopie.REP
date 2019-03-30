@@ -1,0 +1,14 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=5ABAA896AD51403199EA81C90E29754B	dossier	C:\TRAVAIL\RoissyCopie\Exe\dossier.fic
+LOCALIZATION_UTF8=9C9564F08BA44ACDB46881AE78C8E448	Client	C:\TRAVAIL\RoissyCopie\Exe\Client.fic
+LOCALIZATION_UTF8=C03BDD6120E14C189F9E1DF3FE689227	DossierDetail	C:\TRAVAIL\RoissyCopie\Exe\DossierDetail.fic
+LOCALIZATION_UTF8=5ABAA896AD51403199EA81C90E29754B	dossier	C:\reptest\RoissyCopie\Data\dossier.fic
+LOCALIZATION_UTF8=9C9564F08BA44ACDB46881AE78C8E448	Client	C:\reptest\RoissyCopie\Data\Client.fic
+LOCALIZATION_UTF8=C03BDD6120E14C189F9E1DF3FE689227	DossierDetail	C:\reptest\RoissyCopie\Data\DossierDetail.fic
+LOCALIZATION_UTF8=9C2B862DB4F642618FE30424E21D0F13	ImpressionDossierDetail	C:\reptest\RoissyCopie\Data\ImpressionDossierDetail.fic
+LOCALIZATION_UTF8=BD1B6AA59F91449F81B23E527ED47BC7	ImpressionDossierDetailRigide	C:\reptest\RoissyCopie\Data\ImpressionDossierDetailRigide.fic
+LOCALIZATION_UTF8=673FC3EC44F648C4ADE30579F4EAEFBE	DossierDetailTirage	C:\reptest\RoissyCopie\Data\DossierDetailTirage.fic
+LOCALIZATION_UTF8=D2B03087FF0F4BF38B6CA06F587EFE98	DossierDetailReprographie	C:\reptest\RoissyCopie\Data\DossierDetailReprographie.fic
+LOCALIZATION_UTF8=061D7145CE94422EB9F29B04AA494C56	SousTraitance	C:\reptest\RoissyCopie\Data\SousTraitance.fic
