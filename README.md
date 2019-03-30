@@ -9,7 +9,7 @@ Les outils mis en oeuvre:
 Dans un premier temps, il fut nécessaire de créer la fenêtre Mère.
 Celle-ci est entre autre la fenêtre par défaut générer par la solution Windows Form.
 Ainsi, afin de ne pas la laisser vide, nous avons fait le choix d'ajouter différentes fonctionnalités:
-
+## Analyse ##
 ![Analyse.png](http://image.noelshack.com/fichiers/2019/13/6/1553958154-analyse.png)
 ![Commande.png](http://image.noelshack.com/fichiers/2019/13/6/1553958159-capture.png)
 ![Recherche.png](http://image.noelshack.com/fichiers/2019/13/6/1553958167-capture2.png)
