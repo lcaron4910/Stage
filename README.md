@@ -1,14 +1,22 @@
 # Stage
 
-Problématique
+## Objectif
+
+•	Obtenir facilement le liste des dossiers à facturer.
+•	Saisir informatiquement les fiche de travaux.
+•	Avoir la liste des travaux (en attente, en cours, clôturé et facturé).
+•	Savoir l’étape du travail.
+•	Avoir un encours sur le mois.
 
 Les outils mis en oeuvre:
 * Windev
 * HfSql
 
-Dans un premier temps, il fut nécessaire de créer la fenêtre Mère.
-Celle-ci est entre autre la fenêtre par défaut générer par la solution Windows Form.
-Ainsi, afin de ne pas la laisser vide, nous avons fait le choix d'ajouter différentes fonctionnalités:
+## Solution actuelle
+Aujourd’hui les demandes de travaux sont reçues par mail et le travail est saisie à la main dans des formulaires papier.
+Conséquence : 
+Des dossiers peuvent être perdus et pas facturés, il n’y a pas de centralisation des dossiers, pas d’alerte si le travail arrive à échéance et impossibilité d’avoir un encours sur le mois de façon précise mais également pas de centralisation sur l’état d’avancement des travaux.
+
 ## Analyse ##
 ![Analyse.png](http://image.noelshack.com/fichiers/2019/13/6/1553958154-analyse.png)
 ![Commande.png](http://image.noelshack.com/fichiers/2019/13/6/1553958159-capture.png)
@@ -21,40 +29,6 @@ Ainsi, afin de ne pas la laisser vide, nous avons fait le choix d'ajouter diffé
 ![Etat3.png](http://image.noelshack.com/fichiers/2019/13/6/1553958370-capture65.png)
 
 
-1. Bouton New: Instancie une nouvelle fenêtre et l'ajouter à la List Box.
-La mère ayant de nombreuses Filles, celles-ci seront stockées dans un objet de type ArrayList géré par la fenêtre mère:
-```cs
-public partial class FMere : Form
-{
-  List<FFille> lesFilles;
-  private int nombreFille; //Compteur permettant de numéroter les filles créées.
-  private string nomMere; //Permet de nommer les filles créées.
-  ..
-  
-  public FMere()
-  {
-    InitializeComponent();
-    btnNew.Click += new EventHandler(btnNew_Click); //Abbonnement de la fenêtre FMere à l'événement Click du bouton btnNew
-  }
-  
-  private void btnNew_Click(object sender, EventArgs e)
-  {
-    nombreFille = nombreFille + 1;
-    FFille nouvelleFenetre = new FFille(this, nombreFille);
-    lesFilles.Add(nouvelleFenetre);
-    lbLesFilles.Items.Add("Fille n°" + nombreFille);
-  }
-}
-```
-  
-2. Bouton Close: Ferme la fenêtre préalablement séléctionnée dans la List Box et l'efface de la List Box (Elle n'existe plus en mémoire).
-3. List Box: Liste les fenêtres Fille instanciées.
-4. Bouton Show: Ouvre, affiche la fenêtre Fille selectionnée dans la List Box.
-5. Bouton Hide: Cache la fenêtre fille selectionnées dans la List Box.
-6. Bouton Show Dialog: Ouvre une fenêtre fille selectionnée dans la List Box en tant que Show Dialog.
 
-![FilleNew.png](http://image.noelshack.com/fichiers/2018/42/5/1539939823-fillenew.png)
-
-![FilleMere.png](http://image.noelshack.com/fichiers/2018/42/5/1539939856-fillemere.png)
 
 
