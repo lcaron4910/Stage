@@ -1,6 +1,6 @@
-# Stage
+# Stage 
 
-## Objectif
+## Objectifs
 
 -	Obtenir facilement le liste des dossiers à facturer. 
 -	Saisir informatiquement les fiche de travaux. 
@@ -32,7 +32,7 @@ Creation d'une page de tableau de bord pour voir l'avancement du travail en cour
 
 ![TableauBord.png](http://image.noelshack.com/fichiers/2019/13/6/1553958174-capture20.png)
 
-Creation de 3 Etats et d'un bon de commande pour la facturation.
+Creation de 3 Etats et un bon de commande pour la facturation.
 ![Etat1.png](http://image.noelshack.com/fichiers/2019/13/6/1553958352-capture50.png)
 ![BonLivraison.png](http://image.noelshack.com/fichiers/2019/13/6/1553958359-capture52.png)
 ![Etat2.png](http://image.noelshack.com/fichiers/2019/13/6/1553958365-capture60.png)
