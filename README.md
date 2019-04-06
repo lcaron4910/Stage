@@ -19,10 +19,20 @@ Des dossiers peuvent être perdus et pas facturés, il n’y a pas de centralisa
 ![Fonctionnement.png](http://image.noelshack.com/fichiers/2019/14/6/1554564704-image-13.jpg)
 ## Analyse ##
 ![Analyse.png](http://image.noelshack.com/fichiers/2019/13/6/1553958154-analyse.png)
+Creation d'une page de saisie pour les commandes contenant les finitions, les supports souples et supports rigides.
+
 ![Commande.png](http://image.noelshack.com/fichiers/2019/13/6/1553958159-capture.png)
+Creation d'une page de recherche pour trouver des commandes.
+
 ![Recherche.png](http://image.noelshack.com/fichiers/2019/13/6/1553958167-capture2.png)
+Creation d'une page de scan afin d'optimiser la gestion de l'etat de la commande.
+
 ![Scan.png](http://image.noelshack.com/fichiers/2019/13/6/1553958171-capture10.png)
+Creation d'une page de tableau de bord pour voir l'avancement du travail en cours.
+
 ![TableauBord.png](http://image.noelshack.com/fichiers/2019/13/6/1553958174-capture20.png)
+
+Creation de 3 Etats et d'un bon de commande pour la facturation.
 ![Etat1.png](http://image.noelshack.com/fichiers/2019/13/6/1553958352-capture50.png)
 ![BonLivraison.png](http://image.noelshack.com/fichiers/2019/13/6/1553958359-capture52.png)
 ![Etat2.png](http://image.noelshack.com/fichiers/2019/13/6/1553958365-capture60.png)
